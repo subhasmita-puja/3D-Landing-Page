@@ -59,7 +59,7 @@ function App() {
           </nav>
           <div className="middle">
             <div className="left">
-              <h1>WE <br /> Make <br /> Good <br />Shit</h1>
+              <h1>AM <br /> Make <br /> Good <br />Shit</h1>
             </div>
             <div className="right"></div>
           </div>
@@ -85,27 +85,27 @@ function App() {
               <h1>Tomorrowland</h1>
             </div>
             <div img-title="navy-pier" className="title">
-              <small>2020 - ONGOING</small>
+              <small>2018 - TODAY</small>
               <h1> Navy Pier</h1>
             </div>
             <div img-title="msi-chicago" className="title">
-              <small>2020 - ONGOING</small>
+              <small>2015 - TODAY</small>
               <h1>  MSI Chicago</h1>
             </div>
             <div img-title="phone" className="title">
-              <small>2020 - ONGOING</small>
+              <small>2016</small>
               <h1>This Was Louise’s Phone</h1>
             </div>
             <div img-title="kikk" className="title">
-              <small>2020 - ONGOING</small>
+              <small>2012 - TODAY</small>
               <h1>KIKK Festival 2018</h1>
             </div>
             <div img-title="kennedy" className="title">
-              <small>2020 - ONGOING</small>
+              <small>2017</small>
               <h1>The Kennedy Center</h1>
             </div>
             <div img-title="opera" className="title">
-              <small>2020 - ONGOING</small>
+              <small>2016 - ONGOING</small>
               <h1>Royal Opera Of Wallonia</h1>
             </div>
           </div>
@@ -126,10 +126,10 @@ function App() {
             <div className='bottom'>
 <div className="left"></div>
 <div className="right"></div>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti minima ad sequi, commodi nesciunt numquam perferendis tempora! Iusto beatae temporibus dolore incidunt, saepe reiciendis sed dignissimos pariatur soluta blanditiis esse molestias, necessitatibus assumenda quibusdam nobis laborum, tempore aperiam vero nihil impedit. Numquam quidem aspernatur maxime neque repellendus quod id ipsum?
-</p>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti minima ad sequi, commodi nesciunt numquam perferendis tempora! Iusto beatae temporibus dolore incidunt, saepe reiciendis sed dignissimos pariatur soluta blanditiis esse molestias, necessitatibus assumenda quibusdam nobis laborum, tempore aperiam vero nihil impedit. Numquam quidem aspernatur maxime neque repellendus quod id ipsum?
-</p>
+<h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti minima ad sequi, commodi nesciunt numquam perferendis tempora! Iusto beatae temporibus dolore incidunt. Numquam quidem aspernatur maxime neque repellendus quod id ipsum?
+</h3>
+<h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti minima , perferendis tempora! Iusto beatae temporibus dolore incidunt.  quod id ipsum?
+</h3>
             </div>
         </section>
       </main>
